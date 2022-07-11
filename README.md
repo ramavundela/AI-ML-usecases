@@ -10,4 +10,4 @@ Given the class imbalance ratio, we are measuring the accuracy using the Area Un
 
 Also Testing the prediction with neural networks.
 
-# Data can be downloaded from https://www.kaggle.com/mlg-ulb/creditcardfraud/downloads/creditcardfraud.zip/3
+# Data can be downloaded from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
